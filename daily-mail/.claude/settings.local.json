@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:rss.itmedia.co.jp)",
+      "WebFetch(domain:japan.zdnet.com)",
+      "mcp__7fc67e1c-9c3d-4f26-979b-22c67d242354__gmail_create_draft",
+      "mcp__7fb64c80-3944-4f2d-9a32-a601c6e9d1b1__slack_send_message",
+      "mcp__scheduled-tasks__list_scheduled_tasks",
+      "WebFetch(domain:xtech.nikkei.com)"
+    ]
+  }
+}

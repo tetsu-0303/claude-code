@@ -1,0 +1,72 @@
+{
+  "keywords": {
+    "調達・購買全般": [
+      "企業 調達 購買 ニュース 最新",
+      "購買管理 コスト削減 最新",
+      "RFP RRI",
+      "ベンダー選定",
+      "TCO"
+    ],
+    "サプライチェーン": [
+      "サプライチェーン 最新動向 日本",
+      "サプライヤー管理 リスク",
+      "原材料 価格動向 調達"
+    ],
+    "調達DX": [
+      "調達DX デジタル化 企業",
+      "ERPパッケージ選定",
+      "基幹システム刷新"
+    ],
+    "IT調達・管理": [
+      "クラウド調達 IaaS SaaS PaaS",
+      "ハードウェア更改",
+      "ソフトウェアライセンス管理",
+      "SLA",
+      "EA契約"
+    ],
+    "IT資産管理": [
+      "ITAM SAM HAM CMDB",
+      "ライセンスコンプライアンス",
+      "ソフトウェア棚卸し",
+      "ITIL"
+    ],
+    "ベンダー管理": [
+      "ベンダー管理 VMO マルチベンダー戦略"
+    ],
+    "組織・人事": [
+      "CIO CDO CDIO 交代 新任 着任",
+      "M&A"
+    ],
+    "英語": [
+      "procurement supply chain news Japan 2026"
+    ]
+  },
+  "rss_feeds": [
+    {
+      "name": "ITmedia エンタープライズ",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/enterprise.xml"
+    },
+    {
+      "name": "日経クロステック",
+      "url": "https://xtech.nikkei.com/rss/index.rdf"
+    },
+    {
+      "name": "ZDNet Japan",
+      "url": "https://japan.zdnet.com/rss/index.rdf"
+    },
+    {
+      "name": "MONOist",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/monoist.xml"
+    }
+  ],
+  "sns_search_sites": [
+    "site:x.com",
+    "site:linkedin.com"
+  ],
+  "slack_dm_user_id": "U0A7TP2MECT",
+  "gmail_to": "hamu9811@gmail.com, tetsuhiro.tsuchiya@inproc.org",
+  "max_articles_per_category": 5,
+  "max_total_articles": 30,
+  "schedule_cron": "0 8 * * 1-5",
+  "schedule_description": "平日朝8時に調達・購買ニュースのデイリーダイジェストを配信"
+}
